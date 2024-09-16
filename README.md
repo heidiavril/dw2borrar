@@ -9,6 +9,3 @@ Ejemplo de repositorio para clase JavaScript
 Crear un Fork de este repositorio
 yo creo mi propio fork
 pero no me acuerdo de qué era un fork ni de qué era una branch ni na
-
----
-esto es pa volver al commit anterior
